@@ -68,4 +68,9 @@
 
 <br>
 <img  src="./assets/vscode.svg" width="50">
+<br>
+<br>
+<br>
 </div>
+
+Thanks to [gilbarbara](https://github.com/gilbarbara/logos) for the logos.
