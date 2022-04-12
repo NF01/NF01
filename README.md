@@ -20,14 +20,14 @@
 ### Fluent in
 
 <br>
-<a href="https://nestjs.com/"><img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="50"></a>
+<img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="50">
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://nestjs.com/"><img  src="./assets/typescript.png" width="50"></a>
+<img  src="./assets/typescript.png" width="50">
 <br>
 <br>
-<a href="https://nestjs.com/"><img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" width="65"></a>
+<img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" width="65">
 <br>
 <br>
 <br>
@@ -35,19 +35,19 @@
 ### Projects built with
 
 <br>
-<a href="https://nestjs.com/"><img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" width="50"></a>
+<img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" width="50">
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://nestjs.com/"><img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg" width="100"></a>
+<img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg" width="100">
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://nestjs.com/"><img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/adonisjs-icon.svg" width="50"></a>
+<img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/adonisjs-icon.svg" width="50">
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://nestjs.com/"><img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg" width="50"></a>
+<img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg" width="50">
 <br>
 <br>
 <br>
@@ -59,7 +59,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://nestjs.com/"><img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nextjs-icon.svg" width="50"></a>
+<img  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nextjs-icon.svg" width="50">
 <br>
 <br>
 <br>
@@ -67,5 +67,5 @@
 ### Proudly developed on
 
 <br>
-<a href="https://nestjs.com/"><img  src="./assets/vscode.svg" width="50"></a>
+<img  src="./assets/vscode.svg" width="50">
 </div>
